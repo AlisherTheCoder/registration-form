@@ -1,0 +1,14 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body {  
+    background: linear-gradient(to right bottom, #ffcd00, #ffee00);            
+}
+.form {
+    height: 100vh;
+    width: auto;
+    display: flex;
+    justify-content: space-around;
+}
